@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Arial Black', 'Helvetica Neue', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #fff5f8;
+  color: #000;
+  font-weight: 700;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 900;
+  text-transform: uppercase;
+  margin: 0 0 15px 0;
+}
+
+p {
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+ul {
+  font-weight: 600;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+strong {
+  font-weight: 900;
+}
+
+code {
+  font-family: 'Courier New', monospace;
+  font-weight: 800;
+  background-color: #ff69b4;
+  padding: 2px 6px;
+  border: 2px solid #000;
+}
